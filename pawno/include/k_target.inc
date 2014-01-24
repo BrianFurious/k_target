@@ -279,7 +279,3 @@ public OnObjectMoved(objectid)
 #if defined k_target_OnObjectMoved
     forward k_target_OnObjectMoved(objectid);
 #endif
-<<<<<<< HEAD
-=======
-
->>>>>>> Added example filterscript
